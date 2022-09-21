@@ -7,7 +7,7 @@
   </span>
 </h1>
 
-##### I'm an enthusiastic, self-taught student. I develop front-end applications. I'm currently pursuing my Bachelor of Technology in IT at Loyola-ICAM College of Engineering & Technology. I work in [Pattarai](http://pattarai.in "www.pattarai.in") - a technical club with the motto Picture it, Design it, Develop it. A sound team player and person who Embraces minimalism. 
+##### I'm an enthusiastic, self-taught student. I develop front-end applications. I'm currently pursuing my B.Tech in Information Technology at Loyola-ICAM College of Engineering & Technology. I work in [Pattarai](http://pattarai.in "www.pattarai.in") - a technical club with the motto Picture it, Design it, Develop it. A sound team player and person who Embraces minimalism. 
 ##### Apart from these, I love to do art & crafts and watch animated series & movies.
 
 ## *Skills and Tools 🦾*
